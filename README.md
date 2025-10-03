@@ -1,4 +1,4 @@
-## Hi there 👋
+## Akun Ini Untuk Pembelajaran Rochi UEU Divisi Programming! 
 
 <!--
 **rochiueu2025/rochiueu2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
